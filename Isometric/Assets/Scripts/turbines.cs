@@ -9,7 +9,7 @@ public class turbines : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 	
-		this.gameObject.transform.position = new Vector3 (-4, 2, -1);
+		//this.gameObject.transform.position = new Vector3 (-4, 2, -1);
 	}
 	
 	// Update is called once per frame
