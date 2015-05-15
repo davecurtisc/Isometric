@@ -1,10 +1,15 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\sheep_Move.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Lights.cs">
     <Files>
-      <File FileName="Assets\Scripts\turbines.cs" Line="12" Column="5" />
-      <File FileName="Assets\Scripts\sheep_Move.cs" Line="52" Column="16" />
-      <File FileName="Assets\Scripts\player_Movement.cs" Line="37" Column="3" />
+      <File FileName="Assets\Scripts\Sun.cs" Line="32" Column="3" />
+      <File FileName="Assets\Scripts\turbines.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\player_Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\sheep_Move2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Lighthouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Lhouse_Red.cs" Line="32" Column="4" />
+      <File FileName="Assets\Scripts\Clouds.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Lights.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

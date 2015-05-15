@@ -38,7 +38,7 @@ public class sheep_Move : MonoBehaviour {
 		
 	}
 			//trigger for box
-	void OnTriggerEnter(Collision other)
+	void OnTriggerEnter(Collider other)
 	{
 		if (other.gameObject.tag == "Wall") 
 		{
@@ -49,7 +49,7 @@ public class sheep_Move : MonoBehaviour {
 		}
 	}
 		
-	void OnTriggerExit(Collision other){
+	void OnTriggerExit(Collider other){
 			
 		if (other.gameObject.tag == "Wall") {
 				

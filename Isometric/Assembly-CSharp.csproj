@@ -46,8 +46,14 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Clouds.cs" />
+     <Compile Include="Assets\Scripts\Lhouse_Red.cs" />
+     <Compile Include="Assets\Scripts\Lighthouse.cs" />
+     <Compile Include="Assets\Scripts\Lights.cs" />
+     <Compile Include="Assets\Scripts\Sun.cs" />
      <Compile Include="Assets\Scripts\player_Movement.cs" />
      <Compile Include="Assets\Scripts\sheep_Move.cs" />
+     <Compile Include="Assets\Scripts\sheep_Move2.cs" />
      <Compile Include="Assets\Scripts\turbines.cs" />
      <Compile Include="Assets\Scripts\wheel_Turn.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
